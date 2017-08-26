@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  numero: MyInteger
+  edificio: MyString
+  capacidad: MyInteger
+
+two:
+  numero: MyInteger
+  edificio: MyString
+  capacidad: MyInteger

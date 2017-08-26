@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  continente: MyString
+  presidente: MyString
+  himno: MyText
+
+two:
+  continente: MyString
+  presidente: MyString
+  himno: MyText
