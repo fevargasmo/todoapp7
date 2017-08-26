@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :planetas
   resources :paiss
   resources :salons
   resources :camisetas

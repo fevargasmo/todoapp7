@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nombre: MyString
+  masa: MyFloat
+  volumen: MyFloat
+
+two:
+  nombre: MyString
+  masa: MyFloat
+  volumen: MyFloat
